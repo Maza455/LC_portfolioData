@@ -1,0 +1,168 @@
+{
+    "jobTitle": [
+        {
+            "title": "a Assisting Web Developer",
+            "color": "rgb(57, 153, 0)"
+        },
+        {
+            "title": "a Assisting Data Scientist",
+            "color": "rgb(157, 100, 0)"
+        },
+        {
+            "title": "a Assisting FullStack Developer[MEAN @Digital Academy]",
+            "color": "rgb(153, 76, 150)"
+        },
+        {
+            "title": "an Aspiring FullStack Developer",
+            "color": "rgb(0, 172, 230)"
+        }    
+    ],
+    "about": [
+        "First and foremost, I love writing code. Ever since
+        writing my first program in Python and manipulating it
+        to produce a desired output, I have been obsessed with
+        the idea of using software to solve practical problems.
+        Software engineering is a never-ending puzzle that I am
+        passionately engaged in solving, and I believe in the
+        power of programming to transform and improve the
+        
+        lives of people around the world.",
+        "I am currently An Aspiring FullStack Developer @Life Choices and also I'm a Freelancer."
+    ],
+    "education": [
+        {
+            "id": 1,
+            "year": 2017,
+            "description": "Completed my Matric",
+            "place": "Sophumelela*S*S",
+            "type": "Matric",
+            "certificate": "#"
+        },
+        {
+            "id": 2,
+            "year": 2020,
+            "description": "I got my certificates on Web Dev",
+            "place": "FreeCodeCamp",
+            "type": "certificate",
+            "certificate": "#"
+        },
+        {
+            "id": 3,
+            "year": 2020,
+            "description": "I got my certificates has Information Technology:System Developer",
+            "place": "Umuzi Photo Club",
+            "type": "certificate",
+            "certificate": "#"
+        },
+        {
+            "id": 4,
+            "year": 2021,
+            "description": "I got my certificates on Intro to Python",
+            "place": "Data Camp",
+            "type": "certificate",
+            "certificate": ""
+        },
+        {
+            "id": 5,
+            "year": 2021,
+            "description": "I got my certificate on Statistical Thinking",
+            "place": "Data Camp",
+            "type": "Certificate",
+            "certificate": "#"
+        },
+        {
+            "id": 6,
+            "year": 2021,
+            "description": "I got my certificate on Data Wrangling",
+            "place": "Data Camp",
+            "type": "Certificate",
+            "certificate": "#"
+        },
+        {
+            "id": 7,
+            "year": 2021,
+            "description": "Completed my course on Data Scientist",
+            "place": "Umuzi Photo Club",
+            "type": "Certificate",
+            "certificate": "#"
+        },
+        {
+            "id": 8,
+            "year": 2022,
+            "description": "I got my certificate on MEAN(MongoDB, Express, Angular & Node",
+            "place": "UCT GSB",
+            "type": "Certificate",
+            "certificate": "#"
+        }
+    ],
+    "skills": [
+        {
+            "title": "Web Development",
+            "experience": "I have a decade of experience in web development using the following technologies: HTML, CSS, Bootstrap, JQuery, and Javascript."
+        },
+        {
+            "title": "API",
+            "experience": "In case we want to secure, identify, and authorize access to a user on a specific resource, we need to have an API, which is a glue between the front end and back end. We can set up a lot of features or logic, such as middleware, database configuration, JSON web tokens, and many more. For the past 7 years, I have been working on APIs using Django and ExpressJS."
+        },
+        {
+            "title": "Cyber-Security",
+            "experience": "None for now. I'm teaching my self and book to write @Pearson Institute"
+        }
+    ],
+    "testimonials": [
+        {
+            "name": "Bulela",
+            "surname": "Gomoshe",
+            "quotes": "#",
+            "profile": "#"
+        },
+        {
+            "name": "Nkosinathi Lavisa",
+            "surname": "Siyeni",
+            "quotes": "#",
+            "profile": "#"
+        },
+        {
+            "name": "Azabenathi",
+            "surname": "Pupuma",
+            "quotes": "#",
+            "profile": "#"
+        },
+        {
+            "name": "Joel",
+            "surname": "Mukanya",
+            "quotes": "#",
+            "profile": "#"
+        }
+    ],
+    "projects":[
+        {
+            "name": "To-do List",
+            "description": "I built this application using HTML 5, CSS, and Javascript.",
+            "image": "#",
+            "gitHub": "#",
+            "netlify": "#"
+        },
+        {
+            "name": "Calculator",
+            "description": "#",
+            "image": "#",
+            "gitHub": "#",
+            "netlify": "#"
+        },
+        {
+            "name": "Proctor Maza",
+            "description": "An eCommerce site built using HTML 5, CSS, Javascript, and Bootstrap 5",
+            "image": "#",
+            "gitHub": "#",
+            "netlify": "#"
+        },
+        {
+            "name": "JS Portfolio",
+            "description": "I built my portfolio using HTML 5, CSS, Bootstrap, and Javascript. I am using JS to display my dynamic content.",
+            "image": "#",
+            "gitHub": "#",
+            "netlify": "#"
+        }
+    ]
+}
