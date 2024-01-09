@@ -1,7 +1,7 @@
 {
     "homeView": {
         "image": "https://i.postimg.cc/rmYd2thr/1662150356528.jpg",
-        "name": "Zukisa Maza",
+        "name": "Zukisa Eric Maza",
         "title": "Aspiring Fullstack Developer",
         "services": "WebSite's, Data fixing and Application's",
         "linkedin": "https://www.linkedin.com/in/eric-zukisa-maza-2376b119b/",
@@ -9,7 +9,7 @@
     },
 
     "aboutMe": {
-        "fullname": "Zukisa Maza",
+        "fullName": "Zukisa Eric Maza",
         "dateOfBirth": "05/03/****",
         "location": "Cape Town",
         "cellPhoneNumber": "0723484826",
@@ -136,7 +136,7 @@
           "work": [
             {
               "company": "Life Choices Academy",
-              "position": "Computer Programming, Personal & Profesional Development",
+              "position": "Computer Programming, Personal & Professional Development",
               "website": "",
               "startDate": "September 2023",
               "endDate": "Present",
