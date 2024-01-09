@@ -1,168 +1,125 @@
 {
-    "jobTitle": [
-        {
-            "title": "a Assisting Web Developer",
-            "color": "rgb(57, 153, 0)"
+    "homeView": {
+        "image": "https://i.postimg.cc/rmYd2thr/1662150356528.jpg",
+        "name": "Zukisa Maza",
+        "title": "Aspiring Fullstack Developer",
+        "services": "WebSite's, Data fixing and Application's",
+        "linkedin": "https://www.linkedin.com/in/eric-zukisa-maza-2376b119b/",
+        "github": "https://github.com/Maza455"
+    },
+
+    "aboutMe": {
+        "fullname": "Zukisa Maza",
+        "dateOfBirth": "05/03/****",
+        "location": "Cape Town",
+        "cellPhoneNumber": "0723484826",
+        "emailAddress": "maza2pac77@gmail.com",
+        "bio": "Hello! I'm Eric Zukisa Maza, I'm a keen learner and believe in an interdisciplinary approach to understanding the world and I am an ordinary person who has been blessed with extraordinary experiences. I'm a Xhosa guy who once studied Computer Science at the University of Western Cape, but not that long due to finances. Now I'm a good FullStack DEV at Life_Choices."
+    },
+
+    "reachMe": {
+        "address": "314 Imam Haron Road, Cape Town, South Africa, 7780 SA",
+        "phoneNumber": "+ 27 699 950 266",
+        "email": "maza2pac77@gmail.com",
+        "socialLinks": [{
+                "name": "GitHub",
+                "link": "https://github.com/Maza455"
+            },
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/eric-zukisa-maza-2376b119b/"
+            },
+            {
+                "name": "Instagram",
+                "link": "https://www.instagram.com"
+            }
+        ]
+    },
+
+    "testimonials": [{
+            "name": "Thembela Selani",
+            "image": "https://i.postimg.cc/gJcYSB4c/1602231622738.jpg",
+            "linkedin": "https://www.linkedin.com/in/thembela-selani-8635791b2/",
+            "role": "Data Scientist",
+            "message": "Zukisa is a smart student with a bright future. He always has a smile on his face and is a pleasure to work with. I look forward to seeing what he will achieve in the future and highly recommend him."
         },
+
         {
-            "title": "a Assisting Data Scientist",
-            "color": "rgb(157, 100, 0)"
+            "name": "Vuyile Magwaza",
+            "image": "https://i.postimg.cc/nhmX8gxn/1642894920120.jpg",
+            "linkedin": "https://www.linkedin.com/in/vuyile-magwaza-bb6315164/",
+            "role": "Web Developer",
+            "message": "Zukisa Maza is a hardworking person with perseverance, always eager to learn or work, and he is quite friendly."
         },
+
         {
-            "title": "a Assisting FullStack Developer[MEAN @Digital Academy]",
-            "color": "rgb(153, 76, 150)"
+            "name": "Asanda Radebe",
+            "image": "https://i.postimg.cc/rmNyy2ZL/1591703723605.jpg",
+            "linkedin": "https://www.linkedin.com/in/asandaradebe/",
+            "role": "Computer Programming Student",
+            "message": "As a fellow student, I think Zukisa has a friendly and caring personality. He loves participating when he knows the answer. He is a hardworking individual who always shows determination to learn and to help others."
         },
+
         {
-            "title": "an Aspiring FullStack Developer",
-            "color": "rgb(0, 172, 230)"
-        }    
+            "name": "Nkosinathi Siyeni",
+            "image": "https://i.postimg.cc/1XFgrjJC/1687250502989.jpg",
+            "linkedin": "https://www.linkedin.com/in/nkosinathi-siyeni-782b471b1/",
+            "role": "Coding Student",
+            "message": "Zukisa is a hard worker and a determined person in general. Additionally, he is a person who loves a challenge."
+        },
+
+        {
+            "name": "Joel Mukanya",
+            "image": "https://i.postimg.cc/SRXQ8YRq/1690465956035.jpg",
+            "linkedin": "https://www.linkedin.com/in/joel-tshimanga-mukanya-b4b27834/",
+            "role": "FullStack Student",
+            "message": "As a fellow lecturer, I think Zukisa has a friendly and caring personality. He loves participating when he knows the answer. He is a hardworking individual who always shows determination to learn and to help others."
+        },
+
+        {
+            "name": "Candice Amon",
+            "image": "https://i.postimg.cc/LsXsRWSn/1517847608156.jpg",
+            "linkedin": "https://www.linkedin.com/in/candice-amon-5b567414a/",
+            "role": "Software Developer Student",
+            "message": "As a fellow Manager, I think Zukisa has a friendly and caring personality. He loves participating when he knows the answer. He is a hardworking individual who always shows determination to learn and to help others."
+        }
     ],
-    "about": [
-        "First and foremost, I love writing code. Ever since
-        writing my first program in Python and manipulating it
-        to produce a desired output, I have been obsessed with
-        the idea of using software to solve practical problems.
-        Software engineering is a never-ending puzzle that I am
-        passionately engaged in solving, and I believe in the
-        power of programming to transform and improve the
-        
-        lives of people around the world.",
-        "I am currently An Aspiring FullStack Developer @Life Choices and also I'm a Freelancer."
-    ],
-    "education": [
+    "projects": [
+
         {
             "id": 1,
-            "year": 2017,
-            "description": "Completed my Matric",
-            "place": "Sophumelela*S*S",
-            "type": "Matric",
-            "certificate": "#"
+            "title": "Netflix",
+            "description": "First ever Netflix created with Html and Css",
+            "image": "https://i.postimg.cc/RhkL9YPK/download-2.png",
+            "githubLink": "https://maza455.github.io/LC_Project_Netflix/",
+            "liveDemoLink": "https://teal-khapse-e2f9ee.netlify.app",
+            "liveDemoText": "Netflix",
+            "authorGithub": "https://github.com/Maza455",
+            "lastUpdated": "4 days ago"
         },
+
         {
             "id": 2,
-            "year": 2020,
-            "description": "I got my certificates on Web Dev",
-            "place": "FreeCodeCamp",
-            "type": "certificate",
-            "certificate": "#"
+            "title": "Keyboard",
+            "description": "This is a task where we practiced how to design and develop a Virtual Keyboard.",
+            "image": "https://i.postimg.cc/1Xh8zZQm/catalogfeed-9171c225-3002-4fc7-be04-1313a27ba376.webp",
+            "githubLink": "https://maza455.github.io/KeyBoard/",
+            "liveDemoLink": "https://admirable-bienenstitch-c23f15.netlify.app/",
+            "liveDemoText": "Keyboard",
+            "authorGithub": "Maza455",
+            "lastUpdated": "a week ago"
         },
+
         {
             "id": 3,
-            "year": 2020,
-            "description": "I got my certificates has Information Technology:System Developer",
-            "place": "Umuzi Photo Club",
-            "type": "certificate",
-            "certificate": "#"
-        },
-        {
-            "id": 4,
-            "year": 2021,
-            "description": "I got my certificates on Intro to Python",
-            "place": "Data Camp",
-            "type": "certificate",
-            "certificate": ""
-        },
-        {
-            "id": 5,
-            "year": 2021,
-            "description": "I got my certificate on Statistical Thinking",
-            "place": "Data Camp",
-            "type": "Certificate",
-            "certificate": "#"
-        },
-        {
-            "id": 6,
-            "year": 2021,
-            "description": "I got my certificate on Data Wrangling",
-            "place": "Data Camp",
-            "type": "Certificate",
-            "certificate": "#"
-        },
-        {
-            "id": 7,
-            "year": 2021,
-            "description": "Completed my course on Data Scientist",
-            "place": "Umuzi Photo Club",
-            "type": "Certificate",
-            "certificate": "#"
-        },
-        {
-            "id": 8,
-            "year": 2022,
-            "description": "I got my certificate on MEAN(MongoDB, Express, Angular & Node",
-            "place": "UCT GSB",
-            "type": "Certificate",
-            "certificate": "#"
-        }
-    ],
-    "skills": [
-        {
-            "title": "Web Development",
-            "experience": "I have a decade of experience in web development using the following technologies: HTML, CSS, Bootstrap, JQuery, and Javascript."
-        },
-        {
-            "title": "API",
-            "experience": "In case we want to secure, identify, and authorize access to a user on a specific resource, we need to have an API, which is a glue between the front end and back end. We can set up a lot of features or logic, such as middleware, database configuration, JSON web tokens, and many more. For the past 7 years, I have been working on APIs using Django and ExpressJS."
-        },
-        {
-            "title": "Cyber-Security",
-            "experience": "None for now. I'm teaching my self and book to write @Pearson Institute"
-        }
-    ],
-    "testimonials": [
-        {
-            "name": "Bulela",
-            "surname": "Gomoshe",
-            "quotes": "#",
-            "profile": "#"
-        },
-        {
-            "name": "Nkosinathi Lavisa",
-            "surname": "Siyeni",
-            "quotes": "#",
-            "profile": "#"
-        },
-        {
-            "name": "Azabenathi",
-            "surname": "Pupuma",
-            "quotes": "#",
-            "profile": "#"
-        },
-        {
-            "name": "Joel",
-            "surname": "Mukanya",
-            "quotes": "#",
-            "profile": "#"
-        }
-    ],
-    "projects":[
-        {
-            "name": "To-do List",
-            "description": "I built this application using HTML 5, CSS, and Javascript.",
-            "image": "#",
-            "gitHub": "#",
-            "netlify": "#"
-        },
-        {
-            "name": "Calculator",
-            "description": "#",
-            "image": "#",
-            "gitHub": "#",
-            "netlify": "#"
-        },
-        {
-            "name": "Proctor Maza",
-            "description": "An eCommerce site built using HTML 5, CSS, Javascript, and Bootstrap 5",
-            "image": "#",
-            "gitHub": "#",
-            "netlify": "#"
-        },
-        {
-            "name": "JS Portfolio",
-            "description": "I built my portfolio using HTML 5, CSS, Bootstrap, and Javascript. I am using JS to display my dynamic content.",
-            "image": "#",
-            "gitHub": "#",
-            "netlify": "#"
+            "title": "Calculator",
+            "description": "This is a calculator working on.",
+            "image": "https://i.postimg.cc/k4hBxm9P/e726abd62a7d08749d3a88289cdc78d.png",
+            "githubLink": "https://maza455.github.io/LC_Calculator/",
+            "liveDemoLink": "https://roaring-griffin-921b90.netlify.app",
+            "liveDemoText": "Calculator",
+            "authorGithub": "Maza455",
+            "lastUpdated": "a week ago"
         }
     ]
 }
