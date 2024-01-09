@@ -121,5 +121,61 @@
             "authorGithub": "Maza455",
             "lastUpdated": "a week ago"
         }
-    ]
-}
+    ],
+        "resume": {
+          "basics": {
+            "name": "Zukisa Maza",
+            "label": "Aspiring Fullstack Developer",
+            "picture": "https://i.postimg.cc/rmYd2thr/1662150356528.jpg",
+            "email": "maza2pac77@gmail.com",
+            "phone": "0723484826",
+            "location": "Cape Town",
+            "website": "",
+            "summary": "Hello! I'm Eric Zukisa Maza, I'm a keen learner and believe in an interdisciplinary approach to understanding the world. I am an ordinary person who has been blessed with extraordinary experiences. I'm a Xhosa guy who once studied Computer Science at the University of Western Cape, but not that long due to finances. Now I'm a good FullStack DEV at Life_Choices."
+          },
+          "work": [
+            {
+              "company": "Life Choices Academy",
+              "position": "Computer Programming, Personal & Profesional Development",
+              "website": "",
+              "startDate": "September 2023",
+              "endDate": "Present",
+              "summary": "Currently enrolled in a 6 months Coding course. Skills offered:\n- Learning modern web languages\n- Chance to develop future orientated skills (emerging opportunities)\n- Gain Confidence\n- Gain confidence in being able to assess problems and design solutions.\n- Team Work\n- Learn how to work cohesively in a team and get practice with the tools used in the professional industry.\n- Marketable Skills\n- Relevant technical skills for the 21st century.\n- Problem Solving\n- Learn critical and abstract thinking to address relevant issues.\n- Social Awareness\n- Use web skills as a means for social impact."
+            },
+            {
+              "company": "High Style",
+              "position": "Customer Service",
+              "website": "",
+              "startDate": "July 2021",
+              "endDate": "August 2021",
+              "summary": "Shop Assistant. Assisted with the daily operations around the shop, namely stock-taking, pricing and assisting customers with their needs."
+            },
+            {
+              "company": "The Courier Guy",
+              "position": "Warehouse/Driver Assistant",
+              "website": "",
+              "startDate": "February 2020",
+              "endDate": "December 2020",
+              "summary": "Assisted the driver with deliveries & collections. Assisted with administration work (paperwork). Data capturing for the collections in and out of the warehouse."
+            }
+          ],
+          "education": [
+            {
+              "institution": "Sophumelela Senior Secondary School",
+              "area": "National Senior Certificate",
+              "studyType": "High School",
+              "startDate": "2012",
+              "endDate": "2017",
+              "courses": [
+                "Maths",
+                "English",
+                "IsiXhosa (Home Language)",
+                "Physics",
+                "Life Sciences",
+                "Geography",
+                "Life Orientation"
+              ]
+            }
+          ]
+        }
+      }      
