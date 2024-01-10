@@ -1,41 +1,4 @@
 {
-    "homeView": {
-        "image": "https://i.postimg.cc/rmYd2thr/1662150356528.jpg",
-        "name": "Zukisa Eric Maza",
-        "title": "Aspiring Fullstack Developer",
-        "services": "WebSite's, Data fixing and Application's",
-        "linkedin": "https://www.linkedin.com/in/eric-zukisa-maza-2376b119b/",
-        "github": "https://github.com/Maza455"
-    },
-
-    "aboutMe": {
-        "fullName": "Zukisa Eric Maza",
-        "dateOfBirth": "05/03/****",
-        "location": "Cape Town",
-        "cellPhoneNumber": "0723484826",
-        "emailAddress": "maza2pac77@gmail.com",
-        "bio": "Hello! I'm Eric Zukisa Maza, I'm a keen learner and believe in an interdisciplinary approach to understanding the world and I am an ordinary person who has been blessed with extraordinary experiences. I'm a Xhosa guy who once studied Computer Science at the University of Western Cape, but not that long due to finances. Now I'm a good FullStack DEV at Life_Choices."
-    },
-
-    "reachMe": {
-        "address": "314 Imam Haron Road, Cape Town, South Africa, 7780 SA",
-        "phoneNumber": "+ 27 699 950 266",
-        "email": "maza2pac77@gmail.com",
-        "socialLinks": [{
-                "name": "GitHub",
-                "link": "https://github.com/Maza455"
-            },
-            {
-                "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/eric-zukisa-maza-2376b119b/"
-            },
-            {
-                "name": "Instagram",
-                "link": "https://www.instagram.com"
-            }
-        ]
-    },
-
     "testimonials": [{
             "name": "Thembela Selani",
             "image": "https://i.postimg.cc/gJcYSB4c/1602231622738.jpg",
