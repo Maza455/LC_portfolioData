@@ -70,7 +70,7 @@
             "liveDemoLink": "https://teal-khapse-e2f9ee.netlify.app",
             "liveDemoText": "Netflix",
             "authorGithub": "https://github.com/Maza455",
-            "lastUpdated": "4 days ago"
+            "lastUpdated": "4 Weeks ago"
         },
 
         {
@@ -82,7 +82,7 @@
             "liveDemoLink": "https://admirable-bienenstitch-c23f15.netlify.app/",
             "liveDemoText": "Keyboard",
             "authorGithub": "Maza455",
-            "lastUpdated": "a week ago"
+            "lastUpdated": "3 weeks ago"
         },
 
         {
@@ -94,7 +94,7 @@
             "liveDemoLink": "https://roaring-griffin-921b90.netlify.app",
             "liveDemoText": "Calculator",
             "authorGithub": "Maza455",
-            "lastUpdated": "a week ago"
+            "lastUpdated": "3 weeks ago"
         },
 
         {
@@ -106,7 +106,18 @@
             "liveDemoLink": "https://ubiquitous-eclair-1da35c.netlify.app/",
             "liveDemoText": "PortFolio",
             "authorGithub": "Maza455",
-            "lastUpdated": "a week ago"
+            "lastUpdated": "a Month ago"
+        },
+        {
+            "id": 6,
+            "title": "Angular_Project",
+            "description": "This is my MEAN[MongoDB, Express, Angular & Node].",
+            "image": "https://i.postimg.cc/k4hBxm9P/e726abd62a7d08749d3a88289cdc78d.png",
+            "githubLink": "https://github.com/Maza455/Kasi.eCo.git",
+            "liveDemoLink": "https://whimsical-meringue-60a924.netlify.app/",
+            "liveDemoText": "Kasi_E-Co.project",
+            "authorGithub": "Maza455",
+            "lastUpdated": "6 Months ago"
         }
     ],
         "resume": {
