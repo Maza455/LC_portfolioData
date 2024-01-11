@@ -8,6 +8,14 @@
         },
 
         {
+            "name": "Joel Mukanya",
+            "image": "https://i.postimg.cc/sfLfbWqY/Joel.webp",
+            "linkedin": "https://www.linkedin.com/in/joel-tshimanga-mukanya-b4b27834/",
+            "role": "FullStack Student",
+            "message": "As a fellow lecturer, I think Zukisa has a friendly and caring personality. He loves participating when he knows the answer. He is a hardworking individual who always shows determination to learn and to help others."
+        },
+
+        {
             "name": "Vuyile Magwaza",
             "image": "https://i.postimg.cc/d0CV9V42/Vuyile-Magwaza.png",
             "linkedin": "https://www.linkedin.com/in/vuyile-magwaza-bb6315164/",
@@ -29,14 +37,6 @@
             "linkedin": "https://www.linkedin.com/in/nkosinathi-siyeni-782b471b1/",
             "role": "Coding Student & IT Support Specialist",
             "message": "Zukisa is a hard worker and a determined person in general. Additionally, he is a person who loves a challenge."
-        },
-
-        {
-            "name": "Joel Mukanya",
-            "image": "https://i.postimg.cc/sfLfbWqY/Joel.webp",
-            "linkedin": "https://www.linkedin.com/in/joel-tshimanga-mukanya-b4b27834/",
-            "role": "FullStack Student",
-            "message": "As a fellow lecturer, I think Zukisa has a friendly and caring personality. He loves participating when he knows the answer. He is a hardworking individual who always shows determination to learn and to help others."
         },
 
         {
@@ -118,6 +118,39 @@
             "liveDemoText": "Kasi_E-Co.project",
             "authorGithub": "Maza455",
             "lastUpdated": "6 Months ago"
+        },
+        {
+            "id": 7,
+            "title": "To-Do_List",
+            "description": "This is my JavaScript project",
+            "image": "https://i.postimg.cc/3wKNBT0W/Screenshot-2023-12-01-152721.png",
+            "githubLink": "https://github.com/Maza455/ToDo-List.git",
+            "liveDemoLink": "https://splendorous-treacle-1ff097.netlify.app/",
+            "liveDemoText": "To-Do_List",
+            "authorGithub": "Maza455",
+            "lastUpdated": "2 Months ago"
+        },
+        {
+            "id": 8,
+            "title": "Temperature Conveter",
+            "description": "This is my JavaScript project",
+            "image": "https://i.postimg.cc/3rbLQrK5/Screenshot-2023-11-13-124804.png",
+            "githubLink": "https://github.com/Maza455/LC_TEMPERATURE-CONVERTOR.git",
+            "liveDemoLink": " https://aquamarine-croissant-888657.netlify.app/",
+            "liveDemoText": "Temperature Conveter",
+            "authorGithub": "Maza455",
+            "lastUpdated": "9 weeks ago"
+        },
+        {
+            "id": 9,
+            "title": "BMI-Calculator",
+            "description": "This is my JavaScript project",
+            "image": "https://i.postimg.cc/htGTDTM2/Screenshot-2023-11-13-111029.png",
+            "githubLink": "https://github.com/Maza455/LC_BMI-Calculator.git",
+            "liveDemoLink": "https://stirring-griffin-cdd73e.netlify.app/",
+            "liveDemoText": "BMI-Calculator",
+            "authorGithub": "Maza455",
+            "lastUpdated": "8 weeks ago"
         }
     ],
         "resume": {
