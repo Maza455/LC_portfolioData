@@ -190,6 +190,38 @@
               "summary": "Assisted the driver with deliveries & collections. Assisted with administration work (paperwork). Data capturing for the collections in and out of the warehouse."
             }
           ],
+          "skills": [
+            {
+            "id": 1,
+              "company": "Udemy Academy",
+              "position": "Computer Programming, Python",
+              "website": "www.udemy.co.za",
+              "startDate": "June 2020",
+              "endDate": "September 2020",
+              "Certificate": "https://i.postimg.cc/xj4QCbv6/Zukisa.png",
+              "summary": "Was enrolled in a 3 months Coding course. Skills offered:\n- Learning modern Data Science\n- Chance to develop future orientated skills (Managing Data)\n- Gain Confidence\n- Gain confidence in being able to assess problems and design solutions.\n- Team Work."
+            },
+            {
+            "id": 2,
+              "company": "DataCamp",
+              "position": "Data Science",
+              "website": "www.datacamp.co.za",
+              "startDate": "September 2020",
+              "endDate": "December 2020",
+              "Certificate": "https://i.postimg.cc/xj4QCbv6/Zukisa.png",
+              "summary": "Data Wrangling and how to manage data using data manipulation and Jupyter notebook."
+            },
+            {
+            "id": 3,
+              "company": "FreeCode Camp",
+              "position": "Web Developer",
+              "website": "www.freecodecamp.co.za",
+              "startDate": "October 2019",
+              "endDate": "December 2020",
+              "Certificate": "https://i.postimg.cc/xj4QCbv6/Zukisa.png",
+              "summary": "Website development and Application and figma design.\n Ever since writing my first program in Python and \n manipulating it to produce a desired output, I have been obsessed \n with the idea of using software to solve practical problems."
+            }
+          ],
           "education": [
             {
               "institution": "Sophumelela Senior Secondary School",
@@ -197,7 +229,7 @@
               "studyType": "High School",
               "startDate": "2013",
               "endDate": "2017",
-              "courses": [
+              "subjects": [
                 "Maths",
                 "English",
                 "IsiXhosa (Home Language)",
