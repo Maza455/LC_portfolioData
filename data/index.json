@@ -1,7 +1,7 @@
 {
     "testimonials": [{
             "name": "Thembela Selani",
-            "image": "https://ibb.co/hMLJBPg",
+            "image": "https://i.postimg.cc/RZfksJxZ/Thembela-Selani.png",
             "linkedin": "https://www.linkedin.com/in/thembela-selani-8635791b2/",
             "role": "Web Developer",
             "message": "Zukisa is a smart student with a bright future. He always has a smile on his face and is a pleasure to work with. I look forward to seeing what he will achieve in the future and highly recommend him."
@@ -9,7 +9,7 @@
 
         {
             "name": "Vuyile Magwaza",
-            "image": "https://ibb.co/MNSwfFk",
+            "image": "https://i.postimg.cc/d0CV9V42/Vuyile-Magwaza.png",
             "linkedin": "https://www.linkedin.com/in/vuyile-magwaza-bb6315164/",
             "role": "Data Scientist",
             "message": "Zukisa Maza is a hardworking person with perseverance, always eager to learn or work, and he is quite friendly."
@@ -17,7 +17,7 @@
 
         {
             "name": "Asanda Radebe",
-            "image": "https://ibb.co/8dGhsZS",
+            "image": "https://i.postimg.cc/XYFg9VKF/Asanda.webp",
             "linkedin": "https://www.linkedin.com/in/asandaradebe/",
             "role": "Computer Programming Student",
             "message": "As a fellow student, I think Zukisa has a friendly and caring personality. He loves participating when he knows the answer. He is a hardworking individual who always shows determination to learn and to help others."
@@ -25,7 +25,7 @@
 
         {
             "name": "Nkosinathi Siyeni",
-            "image": "https://ibb.co/gJrxRrp",
+            "image": "https://i.postimg.cc/nc1RCKx7/Siyeni.png",
             "linkedin": "https://www.linkedin.com/in/nkosinathi-siyeni-782b471b1/",
             "role": "Coding Student & IT Support Specialist",
             "message": "Zukisa is a hard worker and a determined person in general. Additionally, he is a person who loves a challenge."
@@ -33,7 +33,7 @@
 
         {
             "name": "Joel Mukanya",
-            "image": "https://ibb.co/HX9tD7W",
+            "image": "https://i.postimg.cc/sfLfbWqY/Joel.webp",
             "linkedin": "https://www.linkedin.com/in/joel-tshimanga-mukanya-b4b27834/",
             "role": "FullStack Student",
             "message": "As a fellow lecturer, I think Zukisa has a friendly and caring personality. He loves participating when he knows the answer. He is a hardworking individual who always shows determination to learn and to help others."
@@ -41,7 +41,7 @@
 
         {
             "name": "Candice Amon",
-            "image": "https://ibb.co/MnpSdq0",
+            "image": "https://i.postimg.cc/0Q3xgdzL/Candice.png",
             "linkedin": "https://www.linkedin.com/in/candice-amon-5b567414a/",
             "role": "Software Developer Student",
             "message": "As a fellow Manager, I think Zukisa has a friendly and caring personality. He loves participating when he knows the answer. He is a hardworking individual who always shows determination to learn and to help others."
@@ -53,7 +53,7 @@
             "id": 1,
             "title": "E-commerce",
             "description": "This is my E-commerce.",
-            "image": "https://ibb.co/1nYLc1m",
+            "image": "https://i.postimg.cc/tT63J8wk/7-Best-SEO-Strategies-for-Ecommerce-Website.jpg",
             "githubLink": "https://github.com/Maza455/LC_EndModule.project.git",
             "liveDemoLink": "https://fascinating-pastelito-8c45a9.netlify.app/",
             "liveDemoText": "E-commerce",
@@ -65,7 +65,7 @@
             "id": 2,
             "title": "Netflix",
             "description": "First ever Netflix created with Html and Css",
-            "image": "https://ibb.co/LNM138Z",
+            "image": "https://i.postimg.cc/pTJCWggj/Netflix.webp",
             "githubLink": "https://maza455.github.io/LC_Project_Netflix.git",
             "liveDemoLink": "https://teal-khapse-e2f9ee.netlify.app",
             "liveDemoText": "Netflix",
@@ -77,7 +77,7 @@
             "id": 3,
             "title": "Keyboard",
             "description": "This is a task where we practiced how to design and develop a Virtual Keyboard.",
-            "image": "https://ibb.co/z8Qn8Nv",
+            "image": "https://i.postimg.cc/pr8sNmP2/Keyboard.webp",
             "githubLink": "https://maza455.github.io/KeyBoard.git",
             "liveDemoLink": "https://admirable-bienenstitch-c23f15.netlify.app/",
             "liveDemoText": "Keyboard",
@@ -89,7 +89,7 @@
             "id": 4,
             "title": "Calculator",
             "description": "This is a calculator working on.",
-            "image": "https://ibb.co/bmvrLwX",
+            "image": "https://i.postimg.cc/Y9z55DRn/v4-460px-Use-a-Calculator-Step-5-jpg.webp",
             "githubLink": "https://maza455.github.io/LC_Calculator.git",
             "liveDemoLink": "https://roaring-griffin-921b90.netlify.app",
             "liveDemoText": "Calculator",
@@ -112,7 +112,7 @@
             "id": 6,
             "title": "Angular_Project",
             "description": "This is my MEAN[MongoDB, Express, Angular & Node].",
-            "image": "https://drive.google.com/file/d/1Lr5leVYQMnszJmjcvIg8_75idlzkQTwE/view?usp=drive_link",
+            "image": "https://i.postimg.cc/C5WzWKms/Angular.png",
             "githubLink": "https://github.com/Maza455/Kasi.eCo.git",
             "liveDemoLink": "https://whimsical-meringue-60a924.netlify.app/",
             "liveDemoText": "Kasi_E-Co.project",
@@ -124,7 +124,7 @@
           "basics": {
             "name": "Zukisa Maza",
             "label": "Aspiring Fullstack Developer",
-            "picture": "https://ibb.co/QFMpjn1",
+            "picture": "https://i.postimg.cc/0QxZkr4Z/Maza-CV-2023-K-1-1.png",
             "email": "maza2pac77@gmail.com",
             "phone": "0723484826",
             "location": "Cape Town",
