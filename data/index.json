@@ -153,8 +153,8 @@
             "lastUpdated": "8 weeks ago"
         }
     ],
-        "resume": {
-          "basics": {
+    "resume": {
+        "basics": {
             "name": "Zukisa Maza",
             "label": "Aspiring Fullstack Developer",
             "picture": "https://i.postimg.cc/0QxZkr4Z/Maza-CV-2023-K-1-1.png",
@@ -163,73 +163,88 @@
             "location": "Cape Town",
             "website": "",
             "summary": "Hello! I'm Eric Zukisa Maza, I'm a keen learner and believe in an interdisciplinary approach to understanding the world. I am an ordinary person who has been blessed with extraordinary experiences. I'm a Xhosa guy who once studied Computer Science at the University of Western Cape, but not that long due to finances. Now I'm a good FullStack DEV at Life_Choices."
-          },
-          "work": [
-            {
-              "company": "Life Choices Academy",
-              "position": "Computer Programming, Personal & Professional Development",
-              "website": "",
-              "startDate": "September 2023",
-              "endDate": "Present",
-              "summary": "Currently enrolled in a 6 months Coding course. Skills offered:\n- Learning modern web languages\n- Chance to develop future orientated skills (emerging opportunities)\n- Gain Confidence\n- Gain confidence in being able to assess problems and design solutions.\n- Team Work\n- Learn how to work cohesively in a team and get practice with the tools used in the professional industry.\n- Marketable Skills\n- Relevant technical skills for the 21st century.\n- Problem Solving\n- Learn critical and abstract thinking to address relevant issues.\n- Social Awareness\n- Use web skills as a means for social impact."
+        },
+        "work": [{
+                "company": "Life Choices Academy",
+                "position": "Computer Programming, Personal & Professional Development",
+                "website": "",
+                "startDate": "September 2023",
+                "endDate": "Present",
+                "summary": "Currently enrolled in a 6 months Coding course. Skills offered:\n- Learning modern web languages\n- Chance to develop future orientated skills (emerging opportunities)\n- Gain Confidence\n- Gain confidence in being able to assess problems and design solutions.\n- Team Work\n- Learn how to work cohesively in a team and get practice with the tools used in the professional industry.\n- Marketable Skills\n- Relevant technical skills for the 21st century.\n- Problem Solving\n- Learn critical and abstract thinking to address relevant issues.\n- Social Awareness\n- Use web skills as a means for social impact."
             },
             {
-              "company": "High Style",
-              "position": "Customer Service",
-              "website": "",
-              "startDate": "July 2021",
-              "endDate": "August 2021",
-              "summary": "Shop Assistant. Assisted with the daily operations around the shop, namely stock-taking, pricing and assisting customers with their needs."
+                "company": "High Style",
+                "position": "Customer Service",
+                "website": "",
+                "startDate": "July 2021",
+                "endDate": "August 2021",
+                "summary": "Shop Assistant. Assisted with the daily operations around the shop, namely stock-taking, pricing and assisting customers with their needs."
             },
             {
-              "company": "The Courier Guy",
-              "position": "Warehouse/Driver Assistant",
-              "website": "",
-              "startDate": "February 2020",
-              "endDate": "December 2020",
-              "summary": "Assisted the driver with deliveries & collections. Assisted with administration work (paperwork). Data capturing for the collections in and out of the warehouse."
+                "company": "The Courier Guy",
+                "position": "Warehouse/Driver Assistant",
+                "website": "",
+                "startDate": "February 2020",
+                "endDate": "December 2020",
+                "summary": "Assisted the driver with deliveries & collections. Assisted with administration work (paperwork). Data capturing for the collections in and out of the warehouse."
             }
-          ],
-          "skills": [
+        ],
+        "skills": [{
+                "id": 1,
+                "company": "Udemy Academy",
+                "position": "Computer Programming, Python",
+                "website": "www.udemy.co.za",
+                "image": "https://i.postimg.cc/Vvt6cv1g/Python-01-2.png",
+                "summary": "Python and JavaScript are two popular programming languages used in the coding world. Python is a high-level, object-oriented programming language that is widely used for back-end development, scientific purposes, and a wide range of applications. JavaScript, on the other hand, is a scripting language mainly used for web development, both front-end and back-end. Python is more beginner-friendly and easier to learn than JavaScript, which has a steeper learning curve. Python provides easy code readability and maintainability, while JavaScript is more flexible."
+        },
             {
-            "id": 1,
-              "company": "Udemy Academy",
-              "position": "Computer Programming, Python",
-              "website": "www.udemy.co.za",
-              "startDate": "June 2020",
-              "endDate": "September 2020",
-              "Certificate": "https://i.postimg.cc/xj4QCbv6/Zukisa.png",
-              "summary": "Was enrolled in a 3 months Coding course. Skills offered:\n- Learning modern Data Science\n- Chance to develop future orientated skills (Managing Data)\n- Gain Confidence\n- Gain confidence in being able to assess problems and design solutions.\n- Team Work."
+                "id": 2,
+                "company": "DataCamp",
+                "position": "Data Science",
+                "website": "www.datacamp.co.za",
+                "image": "https://i.postimg.cc/rwxPtkyH/dta.jpg",
+                "summary": "Data wrangling, also known as data munging, is the process of transforming and mapping data from its raw form into another format with the intent of making it more appropriate and valuable for a variety of downstream purposes, such as analytics.\n Linear algebra is a branch of mathematics that deals with vector spaces and linear mappings between these spaces. It is a fundamental tool in the field of data science, machine learning, and statistics. Multi-linear algebra, on the other hand, extends the concepts of vectors and matrices to more than two dimensions. It is essential for understanding and working with multi-dimensional arrays and tensors, which are prevalent in various data science and machine learning applications."
             },
             {
-            "id": 2,
-              "company": "DataCamp",
-              "position": "Data Science",
-              "website": "www.datacamp.co.za",
-              "startDate": "September 2020",
-              "endDate": "December 2020",
-              "Certificate": "https://i.postimg.cc/xj4QCbv6/Zukisa.png",
-              "summary": "Data Wrangling and how to manage data using data manipulation and Jupyter notebook."
+                "id": 3,
+                "company": "FreeCode Camp",
+                "position": "Web Developer",
+                "website": "www.freecodecamp.co.za",
+                "image": "https://i.postimg.cc/VLLtCBfP/what-can-you-do-with-javascript-thumb.jpg",
+                "summary": "In summary, combining web development, Figma, and Bootstrap allows for a streamlined and efficient process for designing and building web applications. Developers can leverage the power of Figma for design and prototyping, while using Bootstrap to style and layout web applications with a consistent and responsive layout."
             },
             {
-            "id": 3,
-              "company": "FreeCode Camp",
-              "position": "Web Developer",
-              "website": "www.freecodecamp.co.za",
-              "startDate": "October 2019",
-              "endDate": "December 2020",
-              "Certificate": "https://i.postimg.cc/xj4QCbv6/Zukisa.png",
-              "summary": "Website development and Application and figma design.\n Ever since writing my first program in Python and \n manipulating it to produce a desired output, I have been obsessed \n with the idea of using software to solve practical problems."
+                "id": 4,
+                "company": "Umuzi Academy",
+                "position": "MongoDB, Node.js, Express, Django, Next.js, MySQL",
+                "website": "www.umuzi.org",
+                "image": "https://i.postimg.cc/nLHfFzK2/mysql.webp",
+                "summary": "MySQL is a popular relational database management system (RDBMS) developed by Oracle. It is widely used by businesses for mission-critical applications. MySQL supports a wide variety of data structures, from standard logical, numeric, and alphanumeric types to more advanced JSON or geospatial data. The ecosystem includes tools for server management, reporting, and data analysis."
+            },
+            {
+                "id": 5,
+                "company": "Altron/bytes",
+                "position": "LINUX, PYTHON, CyberSecurity",
+                "website": "www.altron.co.za",
+                "image": "https://i.postimg.cc/cLPTh5Cn/1690978622943.jpg",
+                "summary": "Kali Linux is a Debian-based open-source operating system designed for advanced penetration testing and security auditing. It contains over 600 pre-installed cybersecurity tools and applications, including those for vulnerability analysis, information gathering, web application penetration testing, exploitation, wireless attacks, network security auditing, and more."
+            },
+            {
+                "id": 6,
+                "company": "Life Choices Academy",
+                "position": "HTML, CSS, JAVASCRIPT, VUE.JS, SQL",
+                "website": "www.lifechoice.co.za",
+                "image": "https://i.postimg.cc/TwKDsTs2/maxresdefault.jpg",
+                "summary": "Vue 3 is a JavaScript framework for building user interfaces that builds on top of standard HTML, CSS, and JavaScript and provides a declarative and component-based programming model that helps you efficiently develop simple or complex applications. Vue 3 has several new features, including a faster and smaller file size, better TypeScript support, and a built-in Composition API."
             }
-          ],
-          "education": [
-            {
-              "institution": "Sophumelela Senior Secondary School",
-              "area": "National Senior Certificate",
-              "studyType": "High School",
-              "startDate": "2013",
-              "endDate": "2017",
-              "subjects": [
+        ],
+        "education": [{
+            "institution": "Sophumelela Senior Secondary School",
+            "area": "National Senior Certificate",
+            "studyType": "High School",
+            "startDate": "2013",
+            "endDate": "2017",
+            "subjects": [
                 "Maths",
                 "English",
                 "IsiXhosa (Home Language)",
@@ -237,8 +252,7 @@
                 "Life Sciences",
                 "Geography",
                 "Life Orientation"
-              ]
-            }
-          ]
-        }
-      }      
+            ]
+        }]
+    }
+}
