@@ -58,7 +58,7 @@
             "liveDemoLink": "https://fascinating-pastelito-8c45a9.netlify.app/",
             "liveDemoText": "E-commerce",
             "authorGithub": "Maza455",
-            "lastUpdated": "a week ago"
+            "lastUpdated": "2 Month ago"
         },
 
         {
@@ -70,7 +70,7 @@
             "liveDemoLink": "https://teal-khapse-e2f9ee.netlify.app",
             "liveDemoText": "Netflix",
             "authorGithub": "https://github.com/Maza455",
-            "lastUpdated": "4 Weeks ago"
+            "lastUpdated": "4 Months ago"
         },
 
         {
@@ -82,7 +82,7 @@
             "liveDemoLink": "https://admirable-bienenstitch-c23f15.netlify.app/",
             "liveDemoText": "Keyboard",
             "authorGithub": "Maza455",
-            "lastUpdated": "3 weeks ago"
+            "lastUpdated": "5 Months ago"
         },
 
         {
@@ -94,7 +94,7 @@
             "liveDemoLink": "https://roaring-griffin-921b90.netlify.app",
             "liveDemoText": "Calculator",
             "authorGithub": "Maza455",
-            "lastUpdated": "3 weeks ago"
+            "lastUpdated": "5 Months ago"
         },
 
         {
@@ -106,7 +106,7 @@
             "liveDemoLink": "https://ubiquitous-eclair-1da35c.netlify.app/",
             "liveDemoText": "PortFolio",
             "authorGithub": "Maza455",
-            "lastUpdated": "a Month ago"
+            "lastUpdated": "2 Month && 3 weeks ago"
         },
         {
             "id": 6,
@@ -117,7 +117,7 @@
             "liveDemoLink": "https://whimsical-meringue-60a924.netlify.app/",
             "liveDemoText": "Kasi_E-Co.project",
             "authorGithub": "Maza455",
-            "lastUpdated": "6 Months ago"
+            "lastUpdated": "8 Months ago"
         },
         {
             "id": 7,
@@ -128,7 +128,7 @@
             "liveDemoLink": "https://splendorous-treacle-1ff097.netlify.app/",
             "liveDemoText": "To-Do_List",
             "authorGithub": "Maza455",
-            "lastUpdated": "2 Months ago"
+            "lastUpdated": "4 Months ago"
         },
         {
             "id": 8,
@@ -139,7 +139,7 @@
             "liveDemoLink": " https://aquamarine-croissant-888657.netlify.app/",
             "liveDemoText": "Temperature Conveter",
             "authorGithub": "Maza455",
-            "lastUpdated": "9 weeks ago"
+            "lastUpdated": "4 Months ago"
         },
         {
             "id": 9,
@@ -150,7 +150,7 @@
             "liveDemoLink": "https://stirring-griffin-cdd73e.netlify.app/",
             "liveDemoText": "BMI-Calculator",
             "authorGithub": "Maza455",
-            "lastUpdated": "8 weeks ago"
+            "lastUpdated": "6 Months ago"
         }
     ],
     "resume": {
@@ -161,13 +161,13 @@
             "email": "maza2pac77@gmail.com",
             "phone": "0723484826",
             "location": "Cape Town",
-            "website": "",
+            "website": "https://vueportfoliozukisa.web.app/",
             "summary": "Hello! I'm Eric Zukisa Maza, I'm a keen learner and believe in an interdisciplinary approach to understanding the world. I am an ordinary person who has been blessed with extraordinary experiences. I'm a Xhosa guy who once studied Computer Science at the University of Western Cape, but not that long due to finances. Now I'm a good FullStack DEV at Life_Choices."
         },
         "work": [{
                 "company": "Life Choices Academy",
                 "position": "Computer Programming, Personal & Professional Development",
-                "website": "",
+                "website": "https://lifechoices.co.za/",
                 "startDate": "September 2023",
                 "endDate": "Present",
                 "summary": "Currently enrolled in a 12 months Coding course. Skills offered:\n- Learning modern web languages\n- Chance to develop future orientated skills (emerging opportunities)\n- Gain Confidence\n- Gain confidence in being able to assess problems and design solutions.\n- Team Work\n- Learn how to work cohesively in a team and get practice with the tools used in the professional industry.\n- Marketable Skills\n- Relevant technical skills for the 21st century.\n- Problem Solving\n- Learn critical and abstract thinking to address relevant issues.\n- Social Awareness\n- Use web skills as a means for social impact."
@@ -191,7 +191,7 @@
             {
                 "company": "Multi-Marine/Robertson&Caine",
                 "position": "StoreMan Assistant",
-                "website": "www.robertson&caine.co.za",
+                "website": "https://robertson&caine.co.za/",
                 "startDate": "Jan 2022",
                 "endDate": "December 2022",
                 "summary": "I was employed as a storeman at Robertson and Caine, where I was responsible for managing the supply of cables and electrical components. During my tenure, I effectively handled inventory, organized the storage of electrical supplies, and contributed to the smooth functioning of the electrical supply department."
@@ -240,7 +240,7 @@
             {
                 "id": 6,
                 "company": "Altron/bytes",
-                "position": "LINUX, PYTHON, CyberSecurity",
+                "position": "LINUX, PYTHON, Networking",
                 "website": "www.altron.co.za",
                 "image": "https://i.postimg.cc/cLPTh5Cn/1690978622943.jpg",
                 "summary": "Kali Linux is a Debian-based open-source operating system designed for advanced penetration testing and security auditing. It contains over 600 pre-installed cybersecurity tools and applications, including those for vulnerability analysis, information gathering, web application penetration testing, exploitation, wireless attacks, network security auditing, and more."
