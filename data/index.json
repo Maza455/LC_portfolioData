@@ -1,18 +1,11 @@
 {
-    "testimonials": [{
-            "name": "Thembela Selani",
-            "image": "https://i.postimg.cc/RZfksJxZ/Thembela-Selani.png",
-            "linkedin": "https://www.linkedin.com/in/thembela-selani-8635791b2/",
-            "role": "Web Developer",
-            "message": "Zukisa is a smart student with a bright future. He always has a smile on his face and is a pleasure to work with. I look forward to seeing what he will achieve in the future and highly recommend him."
-        },
-
+    "testimonials": [
         {
-            "name": "Joel Mukanya",
-            "image": "https://ca.slack-edge.com/T02LW4RMXJQ-U039YG2SQCW-9f624e2a4c31-512",
-            "linkedin": "https://www.linkedin.com/in/joel-tshimanga-mukanya-b4b27834/",
-            "role": "FullStack Lecturer",
-            "message": "As a fellow lecturer, I think Zukisa has a friendly and caring personality. He loves participating when he knows the answer. He is a hardworking individual who always shows determination to learn and to help others."
+            "name": "Nkosinathi Siyeni",
+            "image": "https://i.postimg.cc/nc1RCKx7/Siyeni.png",
+            "linkedin": "https://www.linkedin.com/in/nkosinathi-siyeni-782b471b1/",
+            "role": "Coding Student & IT Support Specialist",
+            "message": "Zukisa is a hard worker and a determined person in general. Additionally, he is a person who loves a challenge."
         },
 
         {
@@ -24,27 +17,35 @@
         },
 
         {
-            "name": "Asanda Radebe",
-            "image": "https://i.postimg.cc/XYFg9VKF/Asanda.webp",
-            "linkedin": "https://www.linkedin.com/in/asandaradebe/",
-            "role": "Web Developer and Mentor",
-            "message": "As a fellow student, I think Zukisa has a friendly and caring personality. He loves participating when he knows the answer. He is a hardworking individual who always shows determination to learn and to help others."
+            "name": "Thembela Selani",
+            "image": "https://i.postimg.cc/RZfksJxZ/Thembela-Selani.png",
+            "linkedin": "https://www.linkedin.com/in/thembela-selani-8635791b2/",
+            "role": "Web Developer",
+            "message": "Zukisa is a smart student with a bright future. He always has a smile on his face and is a pleasure to work with. I look forward to seeing what he will achieve in the future and highly recommend him."
         },
 
         {
-            "name": "Nkosinathi Siyeni",
-            "image": "https://i.postimg.cc/nc1RCKx7/Siyeni.png",
-            "linkedin": "https://www.linkedin.com/in/nkosinathi-siyeni-782b471b1/",
-            "role": "Coding Student & IT Support Specialist",
-            "message": "Zukisa is a hard worker and a determined person in general. Additionally, he is a person who loves a challenge."
+            "name": "Joel Mukanya",
+            "image": "https://i.postimg.cc/Kjh3YG37/Joel-Mukanya-School-of-IT-mentor.png",
+            "linkedin": "https://www.linkedin.com/in/joel-tshimanga-mukanya-b4b27834/",
+            "role": "Coding Lecturer",
+            "message": "As a fellow lecturer, I known Zukisa has a friendly and caring personality. He loves participating when he knows the answer. He is a hardworking individual who always shows determination to learn and to help others."
+        },
+
+        {
+            "name": "Asanda Radebe",
+            "image": "https://i.postimg.cc/Qd7LQjFK/asanda.jpg",
+            "linkedin": "https://www.linkedin.com/in/asandaradebe/",
+            "role": "Web Developer and Mentor",
+            "message": "As a fellow Facilitator, Zukisa has a friendly and caring personality. He loves participating when he knows the answer. He is a hardworking individual who always shows determination to learn and to help others."
         },
 
         {
             "name": "Candice Amon",
             "image": "https://i.postimg.cc/0Q3xgdzL/Candice.png",
             "linkedin": "https://www.linkedin.com/in/candice-amon-5b567414a/",
-            "role": "Life Choice's HR",
-            "message": "As a fellow Manager, I think Zukisa has a friendly and caring personality. He loves participating when he knows the answer. He is a hardworking individual who always shows determination to learn and to help others."
+            "role": "Life Choices coding Manager",
+            "message": "As a fellow Manager, Zukisa has a friendly and caring personality. He loves participating when he knows the answer. He is a hardworking individual who always shows determination to learn and to help others."
         }
     ],
     "projects": [
