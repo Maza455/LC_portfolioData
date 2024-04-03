@@ -5,33 +5,22 @@
             "image": "https://i.postimg.cc/nc1RCKx7/Siyeni.png",
             "linkedin": "https://www.linkedin.com/in/nkosinathi-siyeni-782b471b1/",
             "role": "Coding Student & IT Support Specialist",
-            "message": "Zukisa is a hard worker and a determined person in general. Additionally, he is a person who loves a challenge."
+            "message": "Zukisa is supercalifragilisticexpialidocious and a determined person in general. Additionally, he is a person who loves a challenge."
         },
-
         {
             "name": "Vuyile Magwaza",
             "image": "https://i.postimg.cc/d0CV9V42/Vuyile-Magwaza.png",
             "linkedin": "https://www.linkedin.com/in/vuyile-magwaza-bb6315164/",
             "role": "Data Scientist",
-            "message": "Zukisa Maza is a hardworking person with perseverance, always eager to learn or work, and he is quite friendly."
+            "message": "Zukisa Maza is a hard working person with perseverance, always eager to learn or work, and he is quite friendly."
         },
-
-        {
-            "name": "Thembela Selani",
-            "image": "https://i.postimg.cc/RZfksJxZ/Thembela-Selani.png",
-            "linkedin": "https://www.linkedin.com/in/thembela-selani-8635791b2/",
-            "role": "Web Developer",
-            "message": "Zukisa is a smart student with a bright future. He always has a smile on his face and is a pleasure to work with. I look forward to seeing what he will achieve in the future and highly recommend him."
-        },
-
         {
             "name": "Joel Mukanya",
-            "image": "https://i.postimg.cc/Kjh3YG37/Joel-Mukanya-School-of-IT-mentor.png",
+            "image": "https://ca.slack-edge.com/T02LW4RMXJQ-U039YG2SQCW-9f624e2a4c31-512",
             "linkedin": "https://www.linkedin.com/in/joel-tshimanga-mukanya-b4b27834/",
             "role": "Coding Lecturer",
             "message": "As a fellow lecturer, I known Zukisa has a friendly and caring personality. He loves participating when he knows the answer. He is a hardworking individual who always shows determination to learn and to help others."
         },
-
         {
             "name": "Asanda Radebe",
             "image": "https://i.postimg.cc/Qd7LQjFK/asanda.jpg",
@@ -39,17 +28,37 @@
             "role": "Web Developer and Mentor",
             "message": "As a fellow Facilitator, Zukisa has a friendly and caring personality. He loves participating when he knows the answer. He is a hardworking individual who always shows determination to learn and to help others."
         },
-
         {
-            "name": "Candice Amon",
-            "image": "https://i.postimg.cc/0Q3xgdzL/Candice.png",
-            "linkedin": "https://www.linkedin.com/in/candice-amon-5b567414a/",
-            "role": "Life Choices coding Manager",
-            "message": "As a fellow Manager, Zukisa has a friendly and caring personality. He loves participating when he knows the answer. He is a hardworking individual who always shows determination to learn and to help others."
+            "name": "Ghamzah Samuels",
+            "image": "https://ca.slack-edge.com/T02LW4RMXJQ-U05UP1S575E-c52770d30150-512",
+            "linkedin": "https://www.linkedin.com/in/ghamzah-samuels-a931722b7/",
+            "role": "Software Enginner",
+            "message": "Zukisa is a smart Friend/Student with a bright future. He always has a smile on his face and is a pleasure to work with. I look forward to seeing what he will achieve in the future and highly recommend him."
+        },
+        {
+            "name": "Keziah Petersen",
+            "image": "https://i.postimg.cc/sgxLms14/IMG-20231101-153448-1.jpg",
+            "linkedin": "https://www.linkedin.com/in/keziah-petersen-91977924b/",
+            "role": "Life Choices Academy HR",
+            "message": "Zukisa is a smart student with a bright future. He always has a smile on his face and is a pleasure to work with. I look forward to seeing what he will achieve in the future and highly recommend him."
+        },
+        {
+            "name": "Thembela Selani",
+            "image": "https://i.postimg.cc/RZfksJxZ/Thembela-Selani.png",
+            "linkedin": "https://www.linkedin.com/in/thembela-selani-8635791b2/",
+            "role": "Web Developer",
+            "message": "Zukisa is a smart Friend/Student with a bright future. He always has a smile on his face and is a pleasure to work with. I look forward to seeing what he will achieve in the future and highly recommend him."
+        },
+        {
+            "name": "Tarran Human",
+            "image": "https://i.postimg.cc/dV98hyJW/1704480114034.jpg",
+            "linkedin": "https://www.linkedin.com/in/tarran-human-b7a96a230/",
+            "role": "Office Management I Finance I Administration",
+            "message": "Zukisa has a friendly and caring personality. He loves participating when he knows the answer. He is a hardworking individual who always shows determination to learn and to help others."
         }
     ],
-    "projects": [
 
+    "projects": [
         {
             "id": 1,
             "title": "E-commerce",
@@ -61,7 +70,6 @@
             "authorGithub": "Maza455",
             "lastUpdated": "2 Month ago"
         },
-
         {
             "id": 2,
             "title": "Netflix",
@@ -73,7 +81,6 @@
             "authorGithub": "https://github.com/Maza455",
             "lastUpdated": "4 Months ago"
         },
-
         {
             "id": 3,
             "title": "Keyboard",
@@ -83,9 +90,8 @@
             "liveDemoLink": "https://admirable-bienenstitch-c23f15.netlify.app/",
             "liveDemoText": "Keyboard",
             "authorGithub": "Maza455",
-            "lastUpdated": "5 Months ago"
+            "lastUpdated": "6 Months ago"
         },
-
         {
             "id": 4,
             "title": "Calculator",
@@ -95,9 +101,8 @@
             "liveDemoLink": "https://roaring-griffin-921b90.netlify.app",
             "liveDemoText": "Calculator",
             "authorGithub": "Maza455",
-            "lastUpdated": "5 Months ago"
+            "lastUpdated": "6 Months ago"
         },
-
         {
             "id": 5,
             "title": "Bootstrap_Portfolio",
@@ -118,7 +123,7 @@
             "liveDemoLink": "https://whimsical-meringue-60a924.netlify.app/",
             "liveDemoText": "Kasi_E-Co.project",
             "authorGithub": "Maza455",
-            "lastUpdated": "8 Months ago"
+            "lastUpdated": "9 Months ago"
         },
         {
             "id": 7,
@@ -129,7 +134,7 @@
             "liveDemoLink": "https://splendorous-treacle-1ff097.netlify.app/",
             "liveDemoText": "To-Do_List",
             "authorGithub": "Maza455",
-            "lastUpdated": "4 Months ago"
+            "lastUpdated": "4 & half Months ago"
         },
         {
             "id": 8,
@@ -152,6 +157,39 @@
             "liveDemoText": "BMI-Calculator",
             "authorGithub": "Maza455",
             "lastUpdated": "6 Months ago"
+        },
+        {
+            "id": 10,
+            "title": "CapStone",
+            "description": "FullStack Application E-commerce",
+            "image": "https://i.postimg.cc/vmVXcmSD/Screenshot-2024-04-03-152043.png",
+            "githubLink": "https://github.com/Maza455/LCA_EndModuleCapstoneProject",
+            "liveDemoLink": "https://stirring-griffin-cdd73e.netlify.app/",
+            "liveDemoText": "CapStone E-commerce",
+            "authorGithub": "Maza455",
+            "lastUpdated": "2 Weeks ago"
+        },
+        {
+            "id": 11,
+            "title": "FullStack Application",
+            "description": "FullStack Application E-commerce_Partners",
+            "image": "https://i.postimg.cc/BvHyRN3h/Screenshot-2024-04-03-152537.png",
+            "githubLink": "https://github.com/Maza455/LCA_EndModuleNodeProject",
+            "liveDemoLink": "https://vuejsproject-949a5.web.app/",
+            "liveDemoText": "CapStone E-commerce",
+            "authorGithub": "Maza455",
+            "lastUpdated": "4 Weeks ago"
+        },
+        {
+            "id": 12,
+            "title": "Basics Python",
+            "description": "OOP, Python with Functionalities",
+            "image": "https://i.postimg.cc/rw8v03B5/50548logo.png",
+            "githubLink": "https://github.com/Maza455",
+            "liveDemoLink": "https://github.com/Maza455/OOP-IN-DATA-SCIENCE",
+            "liveDemoText": "CapStone E-commerce",
+            "authorGithub": "Maza455",
+            "lastUpdated": "3 Years ago"
         }
     ],
     "resume": {
@@ -165,6 +203,7 @@
             "website": "https://vueportfoliozukisa.web.app/",
             "summary": "Hello! I'm Eric Zukisa Maza, I'm a keen learner and believe in an interdisciplinary approach to understanding the world. I am an ordinary person who has been blessed with extraordinary experiences. I'm a Xhosa guy who once studied Computer Science at the University of Western Cape, but not that long due to finances. Now I'm a good FullStack DEV at Life_Choices."
         },
+
         "work": [{
                 "company": "Life Choices Academy",
                 "position": "Computer Programming, Personal & Professional Development",
@@ -198,6 +237,7 @@
                 "summary": "I was employed as a storeman at Robertson and Caine, where I was responsible for managing the supply of cables and electrical components. During my tenure, I effectively handled inventory, organized the storage of electrical supplies, and contributed to the smooth functioning of the electrical supply department."
             }
         ],
+
         "skills": [{
                 "id": 1,
                 "company": "Udemy Academy",
@@ -247,6 +287,7 @@
                 "summary": "Kali Linux is a Debian-based open-source operating system designed for advanced penetration testing and security auditing. It contains over 600 pre-installed cybersecurity tools and applications, including those for vulnerability analysis, information gathering, web application penetration testing, exploitation, wireless attacks, network security auditing, and more."
             }
         ],
+
         "education": [{
             "institution": "Sophumelela Senior Secondary School",
             "area": "National Senior Certificate",
