@@ -68,7 +68,15 @@
             "liveDemoLink": "https://fascinating-pastelito-8c45a9.netlify.app/",
             "liveDemoText": "E-commerce",
             "authorGithub": "Maza455",
-            "lastUpdated": "2 Month ago"
+            "lastUpdated": "2 Month ago",
+            "reacted": false,
+            "reactionCount": 0,
+            "views": 0,
+        "user": {
+        "id": 1,
+        "name": "Zukisa",
+        "views": 0
+    }
         },
         {
             "id": 2,
