@@ -5,56 +5,72 @@
             "image": "https://i.postimg.cc/nc1RCKx7/Siyeni.png",
             "linkedin": "https://www.linkedin.com/in/nkosinathi-siyeni-782b471b1/",
             "role": "Coding Student & IT Support Specialist",
-            "message": "Zukisa is supercalifragilisticexpialidocious and a determined person in general. Additionally, he is a person who loves a challenge."
+            "message": "Zukisa is supercalifragilisticexpialidocious and a determined person in general. Additionally, he is a person who loves a challenge.",
+            "liked": false,
+            "count": 0
         },
         {
             "name": "Vuyile Magwaza",
             "image": "https://i.postimg.cc/d0CV9V42/Vuyile-Magwaza.png",
             "linkedin": "https://www.linkedin.com/in/vuyile-magwaza-bb6315164/",
             "role": "Data Scientist",
-            "message": "Zukisa Maza is a hard working person with perseverance, always eager to learn or work, and he is quite friendly."
+            "message": "Zukisa Maza is a hard working person with perseverance, always eager to learn or work, and he is quite friendly.",
+            "liked": false,
+            "count": 0
         },
         {
             "name": "Joel Mukanya",
             "image": "https://ca.slack-edge.com/T02LW4RMXJQ-U039YG2SQCW-9f624e2a4c31-512",
             "linkedin": "https://www.linkedin.com/in/joel-tshimanga-mukanya-b4b27834/",
             "role": "Coding Lecturer",
-            "message": "As a fellow lecturer, I known Zukisa has a friendly and caring personality. He loves participating when he knows the answer. He is a hardworking individual who always shows determination to learn and to help others."
+            "message": "As a fellow lecturer, I known Zukisa has a friendly and caring personality. He loves participating when he knows the answer. He is a hardworking individual who always shows determination to learn and to help others.",
+            "liked": false,
+            "count": 0
         },
         {
             "name": "Asanda Radebe",
             "image": "https://i.postimg.cc/Qd7LQjFK/asanda.jpg",
             "linkedin": "https://www.linkedin.com/in/asandaradebe/",
             "role": "Web Developer and Mentor",
-            "message": "As a fellow Facilitator, Zukisa has a friendly and caring personality. He loves participating when he knows the answer. He is a hardworking individual who always shows determination to learn and to help others."
+            "message": "As a fellow Facilitator, Zukisa has a friendly and caring personality. He loves participating when he knows the answer. He is a hardworking individual who always shows determination to learn and to help others.",
+            "liked": false,
+            "count": 0
         },
         {
             "name": "Ghamzah Samuels",
             "image": "https://ca.slack-edge.com/T02LW4RMXJQ-U05UP1S575E-c52770d30150-512",
             "linkedin": "https://www.linkedin.com/in/ghamzah-samuels-a931722b7/",
             "role": "Software Enginner",
-            "message":  "Zukisa is a smart Friend/Student with a bright future. He always has a smile on his face and is a pleasure to work with. I look forward to seeing what he will achieve in the future and highly recommend him."
+            "message":  "Zukisa is a smart Friend/Student with a bright future. He always has a smile on his face and is a pleasure to work with. I look forward to seeing what he will achieve in the future and highly recommend him.",
+            "liked": false,
+            "count": 0
         },
         {
             "name": "Keziah Petersen",
             "image": "https://i.postimg.cc/sgxLms14/IMG-20231101-153448-1.jpg",
             "linkedin": "https://www.linkedin.com/in/keziah-petersen-91977924b/",
             "role": "Life Choices Academy HR",
-            "message": "Zukisa is a smart student with a bright future. He always has a smile on his face and is a pleasure to work with. I look forward to seeing what he will achieve in the future and highly recommend him."
+            "message": "Zukisa is a smart student with a bright future. He always has a smile on his face and is a pleasure to work with. I look forward to seeing what he will achieve in the future and highly recommend him.",
+            "liked": false,
+        "count": 0
         },
         {
-            "name": "Thembela Selani",
-            "image": "https://i.postimg.cc/RZfksJxZ/Thembela-Selani.png",
-            "linkedin": "https://www.linkedin.com/in/thembela-selani-8635791b2/",
-            "role": "Web Developer",
-            "message": "Zukisa is a smart Friend/Student with a bright future. He always has a smile on his face and is a pleasure to work with. I look forward to seeing what he will achieve in the future and highly recommend him."
+            "name": "Jay-donn Hendricks",
+            "image": "https://i.postimg.cc/59kTfp49/1697092465022.jpg",
+            "linkedin": "https://www.linkedin.com/in/jay-donn-hendricks-747964287/",
+            "role": "Agile Scrum & Web Developer",
+            "message": "Zukisa is a smart Friend/Student with a bright future. He always has a smile on his face and is a pleasure to work with. I look forward to seeing what he will achieve in the future and highly recommend him.",
+            "liked": false,
+        "count": 0
         },
         {
             "name": "Tarran Human",
             "image": "https://i.postimg.cc/dV98hyJW/1704480114034.jpg",
             "linkedin": "https://www.linkedin.com/in/tarran-human-b7a96a230/",
             "role": "Office Management I Finance I Administration",
-            "message": "Zukisa has a friendly and caring personality. He loves participating when he knows the answer. He is a hardworking individual who always shows determination to learn and to help others."
+            "message": "Zukisa has a friendly and caring personality. He loves participating when he knows the answer. He is a hardworking individual who always shows determination to learn and to help others.",
+            "liked": false,
+        "count": 0
         }
     ],
 
