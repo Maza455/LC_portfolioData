@@ -33,7 +33,7 @@
             "image": "https://ca.slack-edge.com/T02LW4RMXJQ-U05UP1S575E-c52770d30150-512",
             "linkedin": "https://www.linkedin.com/in/ghamzah-samuels-a931722b7/",
             "role": "Software Enginner",
-            "message": "Zukisa is a smart Friend/Student with a bright future. He always has a smile on his face and is a pleasure to work with. I look forward to seeing what he will achieve in the future and highly recommend him."
+            "message":  "Zukisa is a smart Friend/Student with a bright future. He always has a smile on his face and is a pleasure to work with. I look forward to seeing what he will achieve in the future and highly recommend him."
         },
         {
             "name": "Keziah Petersen",
@@ -72,9 +72,10 @@
             "reacted": false,
             "reactionCount": 0,
             "views": 0,
+            "comment": [],
         "user": {
         "id": 1,
-        "name": "Zukisa",
+        "name": " ",
         "views": 0
     }
         },
@@ -87,7 +88,16 @@
             "liveDemoLink": "https://teal-khapse-e2f9ee.netlify.app",
             "liveDemoText": "Netflix",
             "authorGithub": "https://github.com/Maza455",
-            "lastUpdated": "4 Months ago"
+            "lastUpdated": "4 Months ago",
+            "reacted": false,
+            "reactionCount": 0,
+            "views": 0,
+            "comment": [],
+        "user": {
+        "id": 2,
+        "name": " ",
+        "views": 0
+    }
         },
         {
             "id": 3,
@@ -98,7 +108,16 @@
             "liveDemoLink": "https://admirable-bienenstitch-c23f15.netlify.app/",
             "liveDemoText": "Keyboard",
             "authorGithub": "Maza455",
-            "lastUpdated": "6 Months ago"
+            "lastUpdated": "6 Months ago",
+            "reacted": false,
+            "reactionCount": 0,
+            "views": 0,
+            "comment": [],
+        "user": {
+        "id": 3,
+        "name": " ",
+        "views": 0
+    }
         },
         {
             "id": 4,
@@ -109,7 +128,16 @@
             "liveDemoLink": "https://roaring-griffin-921b90.netlify.app",
             "liveDemoText": "Calculator",
             "authorGithub": "Maza455",
-            "lastUpdated": "6 Months ago"
+            "lastUpdated": "6 Months ago",
+            "reacted": false,
+            "reactionCount": 0,
+            "views": 0,
+            "comment":[],
+        "user": {
+        "id": 4,
+        "name": " ",
+        "views": 0
+    }
         },
         {
             "id": 5,
@@ -120,7 +148,16 @@
             "liveDemoLink": "https://ubiquitous-eclair-1da35c.netlify.app/",
             "liveDemoText": "PortFolio",
             "authorGithub": "Maza455",
-            "lastUpdated": "2 Month && 3 weeks ago"
+            "lastUpdated": "2 Month && 3 weeks ago",
+            "reacted": false,
+            "reactionCount": 0,
+            "views": 0,
+            "comment":[],
+        "user": {
+        "id": 5,
+        "name": " ",
+        "views": 0
+    }
         },
         {
             "id": 6,
@@ -131,7 +168,16 @@
             "liveDemoLink": "https://whimsical-meringue-60a924.netlify.app/",
             "liveDemoText": "Kasi_E-Co.project",
             "authorGithub": "Maza455",
-            "lastUpdated": "9 Months ago"
+            "lastUpdated": "9 Months ago",
+            "reacted": false,
+            "reactionCount": 0,
+            "views": 0,
+            "comment":[],
+        "user": {
+        "id": 6,
+        "name": " ",
+        "views": 0
+    }
         },
         {
             "id": 7,
@@ -142,7 +188,16 @@
             "liveDemoLink": "https://splendorous-treacle-1ff097.netlify.app/",
             "liveDemoText": "To-Do_List",
             "authorGithub": "Maza455",
-            "lastUpdated": "4 & half Months ago"
+            "lastUpdated": "4 & half Months ago",
+            "reacted": false,
+            "reactionCount": 0,
+            "views": 0,
+            "comment":[],
+        "user": {
+        "id": 7,
+        "name": " ",
+        "views": 0
+    }
         },
         {
             "id": 8,
@@ -153,7 +208,16 @@
             "liveDemoLink": " https://aquamarine-croissant-888657.netlify.app/",
             "liveDemoText": "Temperature Conveter",
             "authorGithub": "Maza455",
-            "lastUpdated": "4 Months ago"
+            "lastUpdated": "4 Months ago",
+            "reacted": false,
+            "reactionCount": 0,
+            "views": 0,
+            "comment":[],
+        "user": {
+        "id": 8,
+        "name": " ",
+        "views": 0
+    }
         },
         {
             "id": 9,
@@ -164,7 +228,16 @@
             "liveDemoLink": "https://stirring-griffin-cdd73e.netlify.app/",
             "liveDemoText": "BMI-Calculator",
             "authorGithub": "Maza455",
-            "lastUpdated": "6 Months ago"
+            "lastUpdated": "6 Months ago",
+            "reacted": false,
+            "reactionCount": 0,
+            "views": 0,
+            "comment":[],
+        "user": {
+        "id": 9,
+        "name": " ",
+        "views": 0
+    }
         },
         {
             "id": 10,
@@ -175,7 +248,16 @@
             "liveDemoLink": "https://stirring-griffin-cdd73e.netlify.app/",
             "liveDemoText": "CapStone E-commerce",
             "authorGithub": "Maza455",
-            "lastUpdated": "2 Weeks ago"
+            "lastUpdated": "2 Weeks ago",
+            "reacted": false,
+            "reactionCount": 0,
+            "views": 0,
+            "comment":[],
+        "user": {
+        "id": 10,
+        "name": " ",
+        "views": 0
+    }
         },
         {
             "id": 11,
@@ -186,7 +268,16 @@
             "liveDemoLink": "https://vuejsproject-949a5.web.app/",
             "liveDemoText": "CapStone E-commerce",
             "authorGithub": "Maza455",
-            "lastUpdated": "4 Weeks ago"
+            "lastUpdated": "4 Weeks ago",
+            "reacted": false,
+            "reactionCount": 0,
+            "views": 0,
+            "comment":[],
+        "user": {
+        "id": 11,
+        "name": " ",
+        "views": 0
+    }
         },
         {
             "id": 12,
@@ -197,7 +288,16 @@
             "liveDemoLink": "https://github.com/Maza455/OOP-IN-DATA-SCIENCE",
             "liveDemoText": "CapStone E-commerce",
             "authorGithub": "Maza455",
-            "lastUpdated": "3 Years ago"
+            "lastUpdated": "3 Years ago",
+            "reacted": false,
+            "reactionCount": 0,
+            "views": 0,
+            "comment":[],
+        "user": {
+        "id": 12,
+        "name": " ",
+        "views": 0
+    }
         }
     ],
     "resume": {
