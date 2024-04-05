@@ -25,7 +25,7 @@
             "role": "Coding Lecturer",
             "message": "As a fellow lecturer, I known Zukisa has a friendly and caring personality. He loves participating when he knows the answer. He is a hardworking individual who always shows determination to learn and to help others.",
             "liked": false,
-            "count": "3K"
+            "count": 999
         },
         {
             "name": "Asanda Radebe",
@@ -34,7 +34,7 @@
             "role": "Web Developer and Mentor",
             "message": "As a fellow Facilitator, Zukisa has a friendly and caring personality. He loves participating when he knows the answer. He is a hardworking individual who always shows determination to learn and to help others.",
             "liked": false,
-            "count": 0
+            "count": 89
         },
         {
             "name": "Ghamzah Samuels",
@@ -43,7 +43,7 @@
             "role": "Software Enginner",
             "message":  "Zukisa is a smart Friend/Student with a bright future. He always has a smile on his face and is a pleasure to work with. I look forward to seeing what he will achieve in the future and highly recommend him.",
             "liked": false,
-            "count": 0
+            "count": 439
         },
         {
             "name": "Keziah Petersen",
@@ -52,7 +52,7 @@
             "role": "Life Choices Academy HR",
             "message": "Zukisa is a smart student with a bright future. He always has a smile on his face and is a pleasure to work with. I look forward to seeing what he will achieve in the future and highly recommend him.",
             "liked": false,
-        "count": 0
+        "count": 599
         },
         {
             "name": "Jay-donn Hendricks",
@@ -61,7 +61,7 @@
             "role": "Agile Scrum & Web Developer",
             "message": "Zukisa is a smart Friend/Student with a bright future. He always has a smile on his face and is a pleasure to work with. I look forward to seeing what he will achieve in the future and highly recommend him.",
             "liked": false,
-        "count": 0
+        "count": 99
         },
         {
             "name": "Tarran Human",
@@ -70,7 +70,7 @@
             "role": "Office Management I Finance I Administration",
             "message": "Zukisa has a friendly and caring personality. He loves participating when he knows the answer. He is a hardworking individual who always shows determination to learn and to help others.",
             "liked": false,
-        "count": 321
+        "count": 1321
         }
     ],
 
@@ -87,12 +87,12 @@
             "lastUpdated": "2 Month ago",
             "reacted": false,
             "reactionCount": 0,
-            "views": 0,
+            "views": 399,
             "comment": [],
         "user": {
         "id": 1,
         "name": " ",
-        "views": "1k"
+        "views": 399
     }
         },
         {
@@ -107,12 +107,12 @@
             "lastUpdated": "4 Months ago",
             "reacted": false,
             "reactionCount": 0,
-            "views": 0,
+            "views": 198,
             "comment": [],
         "user": {
         "id": 2,
         "name": " ",
-        "views": 0
+        "views": 198
     }
         },
         {
@@ -127,12 +127,12 @@
             "lastUpdated": "6 Months ago",
             "reacted": false,
             "reactionCount": 0,
-            "views": 0,
+            "views": 354,
             "comment": [],
         "user": {
         "id": 3,
         "name": " ",
-        "views": 0
+        "views": 354
     }
         },
         {
@@ -147,12 +147,12 @@
             "lastUpdated": "6 Months ago",
             "reacted": false,
             "reactionCount": 0,
-            "views": 0,
+            "views": 267,
             "comment":[],
         "user": {
         "id": 4,
         "name": " ",
-        "views": 0
+        "views": 267
     }
         },
         {
@@ -167,12 +167,12 @@
             "lastUpdated": "2 Month && 3 weeks ago",
             "reacted": false,
             "reactionCount": 0,
-            "views": 0,
+            "views": 899,
             "comment":[],
         "user": {
         "id": 5,
         "name": " ",
-        "views": 0
+        "views": 899
     }
         },
         {
@@ -187,12 +187,12 @@
             "lastUpdated": "9 Months ago",
             "reacted": false,
             "reactionCount": 0,
-            "views": 0,
+            "views": 99,
             "comment":[],
         "user": {
         "id": 6,
         "name": " ",
-        "views": 0
+        "views": 99
     }
         },
         {
@@ -207,12 +207,12 @@
             "lastUpdated": "4 & half Months ago",
             "reacted": false,
             "reactionCount": 0,
-            "views": 0,
+            "views": 709,
             "comment":[],
         "user": {
         "id": 7,
         "name": " ",
-        "views": 0
+        "views": 709
     }
         },
         {
@@ -227,12 +227,12 @@
             "lastUpdated": "4 Months ago",
             "reacted": false,
             "reactionCount": 0,
-            "views": 0,
+            "views": 234,
             "comment":[],
         "user": {
         "id": 8,
         "name": " ",
-        "views": 0
+        "views": 234
     }
         },
         {
@@ -247,12 +247,12 @@
             "lastUpdated": "6 Months ago",
             "reacted": false,
             "reactionCount": 0,
-            "views": 0,
+            "views": 218,
             "comment":[],
         "user": {
         "id": 9,
         "name": " ",
-        "views": 0
+        "views": 218
     }
         },
         {
@@ -267,12 +267,12 @@
             "lastUpdated": "2 Weeks ago",
             "reacted": false,
             "reactionCount": 0,
-            "views": 0,
+            "views": 889,
             "comment":[],
         "user": {
         "id": 10,
         "name": " ",
-        "views": 0
+        "views": 889
     }
         },
         {
@@ -287,12 +287,12 @@
             "lastUpdated": "4 Weeks ago",
             "reacted": false,
             "reactionCount": 0,
-            "views": 0,
+            "views": 469,
             "comment":[],
         "user": {
         "id": 11,
         "name": " ",
-        "views": 0
+        "views": 469
     }
         },
         {
@@ -307,12 +307,12 @@
             "lastUpdated": "3 Years ago",
             "reacted": false,
             "reactionCount": 0,
-            "views": 0,
+            "views": 799,
             "comment":[],
         "user": {
         "id": 12,
         "name": " ",
-        "views": 0
+        "views": 799
     }
         }
     ],
