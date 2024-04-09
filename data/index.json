@@ -118,7 +118,7 @@
         {
             "id": 3,
             "title": "Keyboard",
-            "description": "This is a task where we practiced how to design and develop a Virtual Keyboard.",
+            "description": "I design and develop a Virtual Keyboard.",
             "image": "https://i.postimg.cc/pr8sNmP2/Keyboard.webp",
             "githubLink": "https://maza455.github.io/KeyBoard.git",
             "liveDemoLink": "https://admirable-bienenstitch-c23f15.netlify.app/",
@@ -178,7 +178,7 @@
         {
             "id": 6,
             "title": "Angular_Project",
-            "description": "This is my MEAN[MongoDB, Express, Angular & Node].",
+            "description": "Implementing[MongoDB, Express, Angular & Node].",
             "image": "https://i.postimg.cc/C5WzWKms/Angular.png",
             "githubLink": "https://github.com/Maza455/Kasi.eCo.git",
             "liveDemoLink": "https://whimsical-meringue-60a924.netlify.app/",
